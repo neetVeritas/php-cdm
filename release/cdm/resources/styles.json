@@ -1,0 +1,18 @@
+{
+  "Essentials": {
+    "enabled": true,
+    "local": true,
+    "list": [
+      {
+        "name": "Prototype",
+        "enabled": true,
+        "source": "/assets/css/prototype.css"
+      },
+      {
+        "name": "Helpers",
+        "enabled": true,
+        "source": "/assets/css/helpers.css"
+      }
+    ]
+  }
+}

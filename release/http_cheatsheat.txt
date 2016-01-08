@@ -1,0 +1,8 @@
+JAVASCRIPT RESOURCES >
+	fetch.php?content=scripts
+	fetch.php?content=js
+	fetch.php?content=javascript
+
+CSS RESOURCES >
+	fetch.php?content=styles
+	fetch.php?content=css	

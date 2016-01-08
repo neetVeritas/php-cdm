@@ -1,0 +1,18 @@
+{
+  "Initialize": {
+    "enabled": true,
+    "local": true,
+    "list": [
+      {
+        "name": "Module",
+        "enabled": true,
+        "source": "/app/module.js"
+      },
+      {
+        "name": "Routes",
+        "enabled": true,
+        "source": "/app/routes.js"
+      }
+    ]
+  }
+}

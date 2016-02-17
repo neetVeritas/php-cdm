@@ -28,7 +28,7 @@
             endif;
           }
           header('Content-Type: text/css');
-          require_once('dependencies/cssmin-minified.php');
+          require_once('dependencies/cssmin.php');
           $minified = CssMin::minify( $buffer );
           exit( $minified );
       break;
